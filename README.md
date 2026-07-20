@@ -1,3 +1,7 @@
+About this fork: Removed the hot corner trigger when dragging something. My displays are in a diagonal setup (laptop and a desktop display sitting in a diagonal corner). It got really annoying to drag files or browser tabs from a display to the other since this will 90% of the time trigger a show all overlay. Since I found no other solution and do not have the time to properly implement a toggle, I just commented out a single line of code to disable this.
+
+
+
 <p align="left">
   <img src="/media/design/svg/D2P_logo.svg" width="620"/>
 </p>
