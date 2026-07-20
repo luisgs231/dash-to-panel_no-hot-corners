@@ -524,7 +524,7 @@ export const Panel = GObject.registerClass(
         Main.overview.shouldToggleByCornerOrButton()
       ) {
         this.panelManager.showFocusedAppInOverview(null, true)
-        Main.overview.show()
+        //Main.overview.show()
       }
 
       return DND.DragMotionResult.CONTINUE
